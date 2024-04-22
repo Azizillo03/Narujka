@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.8791mm" height="6.8794mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 47.57 47.57"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#A9C6D8;fill-rule:nonzero}
+    .fil1 {fill:#C8DAEA;fill-rule:nonzero}
+    .fil3 {fill:white;fill-rule:nonzero}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="23.78" y1="47.57" x2="23.78" y2="0">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1D93D2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#38B0E3"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2339169126384">
+   <path class="fil0" d="M47.57 23.79c0,-13.14 -10.65,-23.79 -23.78,-23.79 -13.14,0 -23.78,10.65 -23.78,23.79 0,13.13 10.65,23.78 23.78,23.78 13.14,0 23.78,-10.65 23.78,-23.78z"/>
+   <path class="fil1" d="M16.1 25.52l2.82 7.81c0,0 0.35,0.73 0.73,0.73 0.38,0 6,-5.85 6,-5.85l6.25 -12.07 -15.7 7.36 -0.1 2.01z"/>
+   <path class="fil2" d="M19.84 27.52l-0.54 5.76c0,0 -0.23,1.77 1.54,0 1.76,-1.76 3.45,-3.12 3.45,-3.12l-4.45 -2.64z"/>
+   <path class="fil3" d="M16.15 25.8l-5.8 -1.89c0,0 -0.69,-0.28 -0.47,-0.92 0.05,-0.13 0.14,-0.24 0.42,-0.44 1.29,-0.9 23.81,-8.99 23.81,-8.99 0,0 0.64,-0.22 1.01,-0.07 0.17,0.06 0.28,0.14 0.37,0.41 0.03,0.1 0.05,0.31 0.05,0.51 -0,0.15 -0.02,0.29 -0.03,0.51 -0.14,2.21 -4.24,18.73 -4.24,18.73 0,0 -0.25,0.97 -1.13,1 -0.32,0.01 -0.71,-0.05 -1.18,-0.45 -1.73,-1.49 -7.69,-5.5 -9.01,-6.38 -0.07,-0.05 -0.1,-0.12 -0.11,-0.18 -0.02,-0.09 0.08,-0.21 0.08,-0.21 0,0 10.39,-9.24 10.67,-10.2 0.02,-0.07 -0.06,-0.11 -0.17,-0.08 -0.69,0.25 -12.65,7.81 -13.97,8.64 -0.08,0.05 -0.29,0.02 -0.29,0.02z"/>
+  </g>
+ </g>
+</svg>

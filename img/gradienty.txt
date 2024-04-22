@@ -1,0 +1,15 @@
+background #F7F7F8
+banner #ECEEF0 - #FFFFFF
+podlojka N #4A4A4A - #29292A
+banner 1 #14CC87 - #01919F
+banner 2 #BAE74D - #40A161
+banner 3 #FFFFFF
+banner 4 #5FA6F6 - #9440F5
+banner 5 #43DFE3 - #00918C
+banner 6 #FFFFFF
+banner 7 #33B1E8
+
+основные света
+#FFCA00
+#648D00
+#D2EB96

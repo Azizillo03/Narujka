@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Narujka</title>
+	<link rel="stylesheet" type="text/css" href="assets/content-tools.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+</head>
+<body>
+<header class="header">
+	<div class="nav">
+		<h1 class="nav_h1">Narujka.kg</h1>
+		<a class="nav_number" href="tel:+996553051850">0553051850</a>
+	</div>
+</header>
+<section class="slayd">
+    <div class="conteiner">
+	<div class="swiper mySwiper">
+		<div class="swiper-wrapper">
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+			<a class="swiper-slide" href=""><img class="im" src="img/шашлык фир_1690024433.jpg"></a>
+		</div>
+	</div>
+	<button class="swiper-button-next" ><svg class="carousel__icon" viewBox="0 0 24 24" role="img" ariaLabel="arrowRight"><title>arrowRight</title><path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"></path></svg></button>
+	<button class="swiper-button-prev" ><svg class="carousel__icon" viewBox="0 0 24 24" role="img" ariaLabel="arrowLeft"><title>arrowLeft</title><path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"></path></svg></button>
+
+	<div class="otdel">
+		<div class="produkt">
+			<a class="prod_a">Подробнее</a>
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+	
+		</div>
+		<div class="produkt">
+			<a class="prod_a">Подробнее</a>
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			
+		</div>
+		<div class="produkt">
+			<a class="prod_a">Подробнее</a>
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			
+		</div>
+		<div class="produkt">
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			<a class="prod_a">Подробнее</a>
+		</div>
+		<div class="produkt2">
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			<a class="prod_a">Подробнее</a>
+		</div>
+		<div class="produkt2">
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			<a class="prod_a">Подробнее</a>
+		</div>
+		<div class="produkt">
+			<img src="img/шашлык фир_1690024433.jpg" class="prod_img">
+			<a class="prod_a">Подробнее</a>
+		</div>
+	</div>
+</div>
+</section>
+<section class="calculator_sec">
+	<form class="conteiner" name="form1">
+		<div class="calculator">
+			<h1 class="calc_h1" data-editable data-name="main-content">Выберите параметры</h1>
+			<select class="form_radio_btn" size=1 name="imagename" onChange="changeImage(this.form)">
+				<option value="img/шашлык фир_1690024433.jpg" class="option">Световые короба</option>
+			</select>
+			<select class="form_radio_btn" size=1 name="imagename" onChange="changeImage(this.form)">
+				<option value="img/пельмени_1690310664.jpg">Эканом</option>
+			</select>
+			<p class="calc_p">Подвестки светодиоды барта алюминовый профиль</p>
+			<div class="calc_metr">
+				<div class="calc_pos1" data-editable data-name="main-content">
+					<h2 class="calc_h2">Задайте высоту</h2>
+					<div class="br"><input type="number" name="num" min="0" max="2" value="0.2" step="0.2" class="calc_num" id="calc_num1"> м</div>
+					<input type="range" step="0.2" min="0" max="2" value="0.2" class="range" onchange="updateTextInput(this.value, 'calc_num1');">
+					<div class="num_range"><p>0,2м</p><p>2м</p></div>
+				</div>
+				<div class="calc_pos">
+					<h2 class="calc_h2">Задайте ширину</h2>
+					<div class="br"><input type="number" name="num" min="0" max="2" value="0.2" step="0.2" class="calc_num" id="calc_num2"> м</div>
+					<input type="range" step="0.2" min="0" max="2" value="0.2" class="range" onchange="updateTextInput(this.value, 'calc_num2');">
+					<div class="num_range"><p>0,2м</p><p>2м</p></div>
+				</div>	
+			</div>
+		</div>
+		<img name="pic" src="img/пельмени_1690310664.jpg" class="calc_img">
+	</form>
+</section>
+<footer>
+	<a href="http://soft.kg/" class="foter">QR Digital Menu System by Soft KG company V1.0.1</a>
+</footer>
+
+<script src="app.js"></script>
+<script src="assets/content-tools.min.js"></script>
+<script src="assets/editor.js"></script>
+</body>
+</html>
